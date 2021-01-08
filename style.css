@@ -117,7 +117,7 @@ ol.menulist>li
 	justify-content: space-between;
  }
  
- div.card {
+ .card {
     flex: 0 0 30%;
 	box-sizing: border-box;
 	color:black;
@@ -135,4 +135,9 @@ ol.menulist>li
 	width: 100px;
 	height: 50px;
 	background-color: #f5c71a;
+}
+.menulist{
+	color: rgb(255, 249, 249);
+	font-size: 30px;
+
 }
